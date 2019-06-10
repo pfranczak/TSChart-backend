@@ -4,4 +4,4 @@
 npm-debug.log*
 /build
 
-.env
+*.env
